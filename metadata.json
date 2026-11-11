@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Sales Data Analysis and Visualization System",
+  "description": "Enterprise sales intelligence platform with automated trend detection, revenue forecasting, multi-dimensional analytics, and Gemini AI-driven business recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
